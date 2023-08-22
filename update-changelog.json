@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.19",
-  "latestVersionCode": "1",
+  "latestVersion": "1.0.20",
+  "latestVersionCode": "2",
   "url": "https://github.com/Engindeniz00/JetblueHandTerminalUpdater/releases",
   "releaseNotes": [
-    "Init commit"
+    "Add package updater"
   ]
 }
